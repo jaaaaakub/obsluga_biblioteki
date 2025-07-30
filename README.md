@@ -7,7 +7,11 @@ Prosty system webowy do zarządzania wypożyczeniami książek w bibliotece. Pro
 - Dodawanie i przeglądanie książek  
 - Obsługa czytelników  
 - Zarządzanie wypożyczeniami  
-- Prosty interfejs webowy  
+- Prosty interfejs webowy
+
+## Prezentacja
+
+🎥 [Zobacz demo na YouTube](https://www.youtube.com/watch?v=OKbz3RPp_AI)
 
 ## Wymagania
 
