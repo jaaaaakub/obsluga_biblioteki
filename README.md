@@ -136,7 +136,7 @@ Prosty system webowy do zarządzania wypożyczeniami książek w bibliotece. Pro
 ## Struktura projektu
 
 ```
-test/
+obsluga_biblioteki/
 ├── init_db.sh                     # Skrypt inicjalizujązy bazę danych "biblioteka"
 ├── sql/
 │   ├── 1_create_db_and_user.sql   # Tworzy bazę danych i użytkownika
