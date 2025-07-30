@@ -11,7 +11,7 @@ Prosty system webowy do zarządzania wypożyczeniami książek w bibliotece. Pro
 
 ## Prezentacja
 
-[Zobacz demo na YouTube](https://www.youtube.com/watch?v=OKbz3RPp_AI)
+[Demo na YouTube](https://www.youtube.com/watch?v=OKbz3RPp_AI)
 
 ## Wymagania
 
